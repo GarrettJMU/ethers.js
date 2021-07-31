@@ -27,3 +27,6 @@ packages/testcases/input/nameprep/**
 output/**
 
 misc/testing/**
+
+# this is for intellij ide's
+.idea
